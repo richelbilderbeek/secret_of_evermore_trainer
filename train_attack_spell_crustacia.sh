@@ -4,7 +4,7 @@ echo "You have 3 seconds to focus to higan. Do it now :-)"
 sleep 3
 
 traverse_screen_time=3 # seconds
-cast_spell_to_kill_enemy_time=3 # seconds
+cast_spell_to_kill_enemy_time=5 # seconds
 
 # Move right
 
