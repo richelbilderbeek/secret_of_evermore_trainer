@@ -7,8 +7,9 @@
 
 xdotool trainer for Secret of Evermore
 
-
 ## `train_attack_spell_crustacia.sh`
+
+ * See a video: [YouTube](https://youtu.be/7rC80f2dsQo) [(.ogv)](https://richelbilderbeek.nl/secret_of_evermore_trainer.ogv)
 
 Stand here, have an offensive spell (e.g. Crush, Flare, Sting) selected.
 
